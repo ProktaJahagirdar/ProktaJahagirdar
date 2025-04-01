@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 👋 Hi, I'm Prokta Jahagirdar
 
 ### 💻 Full-Stack Developer | Cloud Enthusiast | Problem Solver
