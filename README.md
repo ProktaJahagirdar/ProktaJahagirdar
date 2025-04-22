@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** passionate about bu
 
 ### 🚀 Technologies & Tools I Work With:
 
-- **Languages**: Java, JavaScript, TypeScript, Python
-- **Frameworks**: Spring Boot, React, Node.js, Express
-- **Cloud**: AWS (Lambda, S3, EC2), Docker, Kubernetes
-- **Databases**: MySQL, MongoDB
-- **DevOps**: CI/CD, Jenkins, GitHub Actions
+- **Languages**: Java, JavaScript, TypeScript, Python, SQL
+- **Frameworks**: Spring Boot, React, Node.js, Express.js, jQuery, RESTful APIs
+- **Cloud**: AWS (EC2, EMR, EKR, S3, ELK Stack, Lambda, CloudWatch, DynamoDB), Azure, GCP
+- **Databases**: MySQL, MongoDB, PostgreSQL, SQL Server, Redis, Oracle
+- **DevOps**: Docker, Kubernetes, CI/CD, Jenkins, GitHub Actions, GitLab
 
 ### 🌱 What I'm Currently Learning:
 
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** passionate about bu
 ### 🤝 Let's Connect:
 
 - **LinkedIn**: [Prokta Jahagirdar](https://www.linkedin.com/in/jprokta/)
-- **Email**: (jprokta23@gmail.com)
+- **Email**: jprokta23@gmail.com
 
 
 <!--
