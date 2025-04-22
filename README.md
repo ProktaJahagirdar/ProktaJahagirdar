@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** passionate about bu
 ### 🤝 Let's Connect:
 
 - **LinkedIn**: [Prokta Jahagirdar](https://www.linkedin.com/in/jprokta/)
-- **Email**: [prokta.email@example.com](jprokta23@gmail.com)
+- **Email**: (jprokta23@gmail.com)
 
 
 <!--
