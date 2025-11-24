@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** passionate about bu
 
 ### 🚀 Technologies & Tools I Work With:
 
-- **Languages**: Java, JavaScript, TypeScript, Python, SQL
+- **Languages**: C, C++, Python, Java, JavaScript, TypeScript, SQL
 - **Frameworks**: Spring Boot, React, Node.js, Express.js, jQuery, RESTful APIs
 - **Cloud**: AWS (EC2, EMR, EKR, S3, ELK Stack, Lambda, CloudWatch, DynamoDB), Azure, GCP
 - **Databases**: MySQL, MongoDB, PostgreSQL, SQL Server, Redis, Oracle
